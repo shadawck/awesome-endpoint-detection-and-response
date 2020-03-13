@@ -22,3 +22,4 @@ Collection of tool you need to have in your EDR arsenal
 - [Cuckoo](https://github.com/cuckoosandbox/cuckoo) - Cuckoo Sandbox is the leading open source automated malware analysis system (MISP)
 - [Google GRR](https://github.com/google/grr) - GRR Rapid Response: remote live forensics for incident response. 
 - [Wazuh](https://github.com/wazuh/wazuh) - The Open Source Security Platform - Wazuh helps you to gain deeper security visibility into your infrastructure by monitoring hosts at an operating system and application level. [Wazuh GIT](https://github.com/wazuh) : Lot of ressources for wazuh main software.
+- [MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform)
