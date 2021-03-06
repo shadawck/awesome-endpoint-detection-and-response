@@ -27,3 +27,6 @@ Collection of tool you need to have in your EDR arsenal
 - [Google GRR](https://github.com/google/grr) - GRR Rapid Response: remote live forensics for incident response. 
 - [Wazuh](https://github.com/wazuh/wazuh) - The Open Source Security Platform - Wazuh helps you to gain deeper security visibility into your infrastructure by monitoring hosts at an operating system and application level. [Wazuh GIT](https://github.com/wazuh) : Lot of ressources for wazuh main software.
 - [MISP](https://github.com/MISP/MISP) - MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform)
+- [OpenEDR - By Comodo](https://github.com/ComodoSecurity/openedr) : OpenEDR allows you to analyze what’s happening across your entire environment at base-security-event level.
+- [Bluespawn](https://github.com/ION28/BLUESPAWN) : An Active Defense and EDR software to empower Blue Teams.
+- [OSSEC](https://www.ossec.net/) : OSSEC has a powerful correlation and analysis engine, integrating log analysis, file integrity monitoring, Windows registry monitoring, centralized policy enforcement, rootkit detection, real-time alerting and active response.
