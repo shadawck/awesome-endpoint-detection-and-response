@@ -30,3 +30,6 @@ Collection of tool you need to have in your EDR arsenal
 - [OpenEDR - By Comodo](https://github.com/ComodoSecurity/openedr) : OpenEDR allows you to analyze what’s happening across your entire environment at base-security-event level.
 - [Bluespawn](https://github.com/ION28/BLUESPAWN) : An Active Defense and EDR software to empower Blue Teams.
 - [OSSEC](https://www.ossec.net/) : OSSEC has a powerful correlation and analysis engine, integrating log analysis, file integrity monitoring, Windows registry monitoring, centralized policy enforcement, rootkit detection, real-time alerting and active response.
+- [Velociraptor](https://github.com/Velocidex/velociraptor) : A tool for collecting host based state information using The Velociraptor Query Language (VQL) queries.
+- [Fibratus](https://github.com/rabbitstack/fibratus) : A modern tool for Windows kernel exploration and tracing with a focus on security.
+- [Whids](https://github.com/0xrawsec/whids) : EDR with artifact collection driven by detection.
