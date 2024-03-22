@@ -4,7 +4,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![License](https://img.shields.io/badge/LICENSE-CC_BY_4.0-00a2ff?&style=flat-square)](https://creativecommons.org/licenses/by/4.0/)
 
-Collection of tool you need to have in your EDR arsenal
+Collection of tool you need to have in your EDR arsenal.
 
 - [The Hives Project](https://thehive-project.org/) - A scalable, open source and free Security Incident Response Platform, tightly integrated with MISP (Malware Information Sharing Platform), designed to make life easier for SOCs, CSIRTs, CERTs and any information security practitioner dealing with security incidents that need to be investigated and acted upon swiftly.
   - [TheHive](https://github.com/TheHive-Project/TheHive) - A Scalable, Open Source and Free Security Incident Response Platform
@@ -33,3 +33,4 @@ Collection of tool you need to have in your EDR arsenal
 - [Velociraptor](https://github.com/Velocidex/velociraptor) : A tool for collecting host based state information using The Velociraptor Query Language (VQL) queries.
 - [Fibratus](https://github.com/rabbitstack/fibratus) : A modern tool for Windows kernel exploration and tracing with a focus on security.
 - [Whids](https://github.com/0xrawsec/whids) : EDR with artifact collection driven by detection.
+- [Elkeid](https://github.com/bytedance/Elkeid) : Elkeid is an open source solution that can meet the security requirements of various workloads such as hosts, containers and K8s, and serverless.
