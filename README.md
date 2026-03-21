@@ -34,3 +34,4 @@ Collection of tool you need to have in your EDR arsenal.
 - [Fibratus](https://github.com/rabbitstack/fibratus) : A modern tool for Windows kernel exploration and tracing with a focus on security.
 - [Whids](https://github.com/0xrawsec/whids) : EDR with artifact collection driven by detection.
 - [Elkeid](https://github.com/bytedance/Elkeid) : Elkeid is an open source solution that can meet the security requirements of various workloads such as hosts, containers and K8s, and serverless.
+- [owLSM](https://github.com/Cybereason-Public/owLSM) : Open source agent that implements a stateful Sigma rules engine focused on monitoring & prevention using eBPF LSM.
