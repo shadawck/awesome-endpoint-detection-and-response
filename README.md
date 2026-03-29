@@ -34,3 +34,4 @@ Collection of tool you need to have in your EDR arsenal.
 - [Fibratus](https://github.com/rabbitstack/fibratus) : A modern tool for Windows kernel exploration and tracing with a focus on security.
 - [Whids](https://github.com/0xrawsec/whids) : EDR with artifact collection driven by detection.
 - [Elkeid](https://github.com/bytedance/Elkeid) : Elkeid is an open source solution that can meet the security requirements of various workloads such as hosts, containers and K8s, and serverless.
+- [InnerWarden](https://github.com/InnerWarden/innerwarden) : Autonomous EDR for Linux with 48 detectors, 38 eBPF kernel hooks, cross-layer correlation, and automated response. Written in Rust.
