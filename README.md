@@ -34,3 +34,4 @@ Collection of tool you need to have in your EDR arsenal.
 - [Fibratus](https://github.com/rabbitstack/fibratus) : A modern tool for Windows kernel exploration and tracing with a focus on security.
 - [Whids](https://github.com/0xrawsec/whids) : EDR with artifact collection driven by detection.
 - [Elkeid](https://github.com/bytedance/Elkeid) : Elkeid is an open source solution that can meet the security requirements of various workloads such as hosts, containers and K8s, and serverless.
+- [Rustinel](https://github.com/Karib0u/rustinel) - Open-source endpoint detection engine for Windows and Linux using ETW, eBPF, Sigma, YARA, IOC matching, and ECS NDJSON alerts.
