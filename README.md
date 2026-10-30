@@ -35,3 +35,4 @@ Collection of tool you need to have in your EDR arsenal.
 - [Whids](https://github.com/0xrawsec/whids) : EDR with artifact collection driven by detection.
 - [Elkeid](https://github.com/bytedance/Elkeid) : Elkeid is an open source solution that can meet the security requirements of various workloads such as hosts, containers and K8s, and serverless.
 - [Rustinel](https://github.com/Karib0u/rustinel) - Open-source endpoint detection engine for Windows and Linux using ETW, eBPF, Sigma, YARA, IOC matching, and ECS NDJSON alerts.
+- [OshoosiClaw](https://github.com/oyesanyf/OshoosiClaw) - Cross-platform Rust and eBPF/ETW Endpoint Detection & Response (EDR) agent with multi-voter Bayesian behavioral consensus, YARA-X memory/file scanning, 7-Ring Cedar capability containment, and active process/network quarantine.
